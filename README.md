@@ -7,7 +7,3 @@ Esse repositório é utilizado pelo @lukaz988 para versionar seus projetos.
 
  - [ ] Kotlin
  
- ## Lista de metas.
- 
- - [ ] Versionar projeto em C#
- - [ ] Replicar pagina inicial da Netflix
